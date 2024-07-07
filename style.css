@@ -1,0 +1,35 @@
+
+body{
+
+    font-family: "Open Sans", sans-serif;
+}
+
+
+/*Style for Header Section*/
+header{
+    background-color: aqua;
+}
+
+nav {
+
+    display: flex;
+    align-items: center;
+}
+
+nav > ul {
+
+    display: flex;
+}
+
+.header-title {
+
+    font-size: 45px;
+    font-weight: 800;
+    color: #181818;
+}
+
+.primary-color{
+
+    color: #FD6E0A; 
+}
+/*Style for Header Section*/
